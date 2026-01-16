@@ -59,7 +59,7 @@ u(t) = Kp e(t) + Ki ∫ e(t) dt + Kd de(t)/dt
 
 ## Documentation
 Full technical report:  
-[Download PDF](Self_Balancing_Bot-3.pdf)
+[Download PDF](Self_Balancing_Bot.pdf)
 
 ## Future Work
 - State-space control and Linear Quadratic Regulator (LQR) implementation  
